@@ -9,7 +9,7 @@ I am currently an `Applied Mathematics` MSc student at `Imperial College London`
 
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jsitompul&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jsitompul&layout=compact&theme=dark&cache_seconds=1500)
 
 ## Contact Me
 
